@@ -1,4 +1,3 @@
-import React from "react";
 import yellowCar from "../../assets/website/team.png";
 
 const Hero = () => {
