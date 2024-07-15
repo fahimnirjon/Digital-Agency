@@ -1,4 +1,3 @@
-import React from "react";
 import BlogCard from "./BlogCard";
 import Img1 from "../../assets/blog/blog1.png";
 import Img2 from "../../assets/blog/blog2.png";
